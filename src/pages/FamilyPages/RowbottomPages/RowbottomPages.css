@@ -1,0 +1,17 @@
+.rowbottomMemberBox{
+
+    border:solid 100px; 
+    padding: 10px;
+    margin: 10px;
+    
+        }
+.rowbottomlist{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+color: whitesmoke;
+background-color:burlywood;
+
+
+}

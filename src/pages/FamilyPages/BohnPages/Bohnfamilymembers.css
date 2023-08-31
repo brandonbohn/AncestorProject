@@ -1,0 +1,20 @@
+.bohnFamilyMemberBox{
+
+    border:solid 1px; 
+    padding: 10px;
+    margin: 10px;
+    
+        }
+.Bohnslist{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+background-color: burlywood;
+color:navy;
+
+
+
+
+
+}

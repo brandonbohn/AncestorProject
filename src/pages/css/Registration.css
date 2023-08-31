@@ -1,0 +1,39 @@
+
+.background5{
+
+  
+        background:url(../background/riverboat\ background\ st\ louis.jpg) fixed repeat;
+       background-size: cover;
+       
+       
+}
+
+
+
+.login{
+  
+   
+    
+    text-justify: center;
+    font-size: 12px;
+    color:whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.card{
+
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 2%;
+
+
+}
+
+.cardtitle{
+    font: size 50%;
+
+}
+
+     
+

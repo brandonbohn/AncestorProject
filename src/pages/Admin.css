@@ -1,0 +1,20 @@
+.card{
+
+ justify-items: center;
+   
+    
+        }
+.Glendeninglist{
+
+display: flex;
+flex-wrap: wrap;
+color: navy;
+background-color:burlywood ;
+
+}
+.Glendeningtree{
+text-size-adjust: large;
+
+
+}
+
