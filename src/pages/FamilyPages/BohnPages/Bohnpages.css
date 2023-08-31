@@ -1,0 +1,22 @@
+
+.test{
+
+    justify-content: right;
+    align-content: space-around;
+    justify-content: center;
+
+    
+    }
+    .cardtitle{
+        text-justify: center;
+        font-size: 24px;
+        color:navy;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+        .profilephoto{
+justify-content: center;
+align-content: space-around;
+margin-top: -500%;
+        }
+    

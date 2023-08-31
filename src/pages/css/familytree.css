@@ -1,0 +1,34 @@
+
+.title{
+
+display: flex;
+    justify-content:right;
+    background-color: rgb(4, 58, 17);
+
+
+}
+
+.background{
+
+
+    background:url(../background/oak-tree-care.jpg) ;
+    background-size: vh 1000;
+    background-size: cover;
+     background-repeat: no-repeat;
+
+}
+
+.Title{
+    text-justify: center;
+    font-size: 44px;
+    color:burlywood;
+    font-family: cursive;
+
+
+
+    }   
+
+
+
+
+

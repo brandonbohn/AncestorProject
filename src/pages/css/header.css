@@ -1,0 +1,36 @@
+.header-container {
+    display: flex;
+    justify-content:space-around;
+    background-color:rgb(12, 68, 21);
+    font-family:cursive;
+    font-size: 25px;
+    height: 55px;
+    width: 2000;
+    
+
+
+}
+   .Admin{
+
+    display: flex;
+    justify-content:right;
+    background-color: rgb(12, 68, 21);
+    text-align: right;
+    font-size: medium;
+    text-indent: -20%;
+    
+    
+  
+
+
+
+   }
+
+
+   
+   
+
+
+
+
+   

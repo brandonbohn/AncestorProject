@@ -1,0 +1,30 @@
+
+ .background{
+  
+    background:url("./familytreebackground2.jpg");   
+   background-size: contain;
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 5%; 
+    
+ }
+
+    .Title{
+    text-justify: center;
+    font-size: 44px;
+    color:navy;
+    font-family: cursive;
+    background-color:burlywood;
+    }
+
+
+    
+    .profilephoto{
+
+align-items: center;
+    
+
+    }   
+     
+    
+

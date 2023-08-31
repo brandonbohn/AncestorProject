@@ -1,0 +1,65 @@
+
+
+.bohnbackground{
+  
+    .background{
+  
+        background:url("./Bohnfamilybackground.jpg"  
+        ) ;
+       background-size: contain;
+       background-size: cover;
+
+
+}
+.card2{
+
+    display: flex;
+        justify-content:top;
+        background-color: rgb(236, 230, 230);
+        font-size: medium;
+        margin-top: auto;
+    
+    
+
+    
+    }
+    
+    .cardtitle{
+        text-justify: center;
+        font-size: 24px;
+        color:navy;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+    
+        }   
+    
+    
+    
+    .bohnFamilyMemberBox{
+
+border:solid 1px; 
+padding: 10px;
+margin: 10px;
+border-left: 15%;
+
+    }
+
+.Story{
+    background-color: rgb(138, 143, 143);
+
+}
+
+.position{
+
+justify-content: right;
+align-content: space-around;
+justify-content: center;
+
+padding-top: 5%;
+
+
+}
+}
+    
+    

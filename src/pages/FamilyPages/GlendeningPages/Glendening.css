@@ -1,0 +1,21 @@
+.glendeningFamilyMemberBox{
+
+    border:solid 1px; 
+    padding: 10px;
+    margin: 10px;
+    
+        }
+.Glendeninglist{
+
+display: flex;
+flex-wrap: wrap;
+color: navy;
+background-color:burlywood ;
+
+}
+.Glendeningtree{
+text-size-adjust: large;
+
+
+}
+
